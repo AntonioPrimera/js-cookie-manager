@@ -12,7 +12,7 @@ or
 
 ##Usage
 
-```JavaScript
+```javascript
 import CookieManager from 'js-cookie-manager';
 let cookieManager = new CookieManager();
 
@@ -35,7 +35,7 @@ The path can be omitted and defaults to '/'.
 
 Returns an object like:
 
-```JavaScript
+```javascript
 {
     name: '[String name of the cookie]',
     value: '[String value of the cookie]',
