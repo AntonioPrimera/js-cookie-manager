@@ -10,6 +10,10 @@
 		"cookie-manager",
 		"frontend"
 	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/AntonioPrimera/js-cookie-manager.git"
+	},
 	"author": "Antonio Primera",
 	"license": "ISC"
 }

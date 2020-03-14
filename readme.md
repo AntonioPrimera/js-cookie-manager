@@ -28,7 +28,7 @@ cookieManager.remove('my-cookie');              //true
 cookieManager.get('my-cookie');                 //null
 ```
 
-###set(name, value, daysUntilExpiration, path)
+####set(name, value, daysUntilExpiration, path)
 
 Sets a new cookie with the given name, value and path. Expiration date is set in daysUntilExpiration days from now.
 The path can be omitted and defaults to '/'.
@@ -48,11 +48,11 @@ Returns an object like:
 
 Returns the string value of the cookie with the given name. If that cookie is not set, it will return null.
 
-###remove(name, path)
+####remove(name, path)
 
 Removes the cookie with the given name and the given path. The path can be omitted and defaults to '/'.
 
-###has(name)
+####has(name)
 
 Returns boolean true if there is a cookie with the given name, otherwise it returns boolean false.
 
