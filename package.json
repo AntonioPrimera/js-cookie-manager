@@ -1,0 +1,15 @@
+{
+	"name": "js-cookie-manager",
+	"version": "1.0.0",
+	"description": "A basic Frontend JS Cookie Manager",
+	"main": "index.js",
+	"keywords": [
+		"vanilla-js",
+		"cookie",
+		"cookies",
+		"cookie-manager",
+		"frontend"
+	],
+	"author": "Antonio Primera",
+	"license": "ISC"
+}
